@@ -1,0 +1,101 @@
+#####,Type,,Region I,Season,Time of Day
+00001,Air,environment breeze quiet rich dynamic depth subtle field space atmosphere texture sound,Northern Forests,Fall,Morning
+00002,Air,sound recording texture presence subtle gentle dynamic background organic motion environment atmosphere,Northern Forests,Fall,Morning
+00003,Water,Calm forest creek flowing over pebbles,Northern Forests,Fall,Afternoon
+00004,Water,environment organic space motion recording texture depth field calm breeze gentle ambient,Northern Forests,Fall,Afternoon
+00005,Water,field presence sound background environment calm space forest recording subtle organic dynamic,Northern Forests,Fall,Afternoon
+00006,Air,space subtle layered depth gentle detailed forest environment calm organic quiet texture,Northern Forests,Fall,Afternoon
+00007,Air,rich background depth ambient sound quiet space natural dynamic gentle environment organic,Northern Forests,Fall,Afternoon
+00008,Air,recording sound environment natural quiet presence organic dynamic calm forest background rich,Northern Forests,Fall,Afternoon
+00009,Air,presence sound field forest depth dynamic detailed texture breeze environment background quiet,Northern Forests,Fall,Afternoon
+00010,Air,gentle breeze environment motion presence layered atmosphere natural rich sound detailed field,Northern Forests,Fall,Afternoon
+00011,Air,texture breeze layered rich motion calm sound forest field detailed space natural,Northern Forests,Fall,Afternoon
+00012,Hybrid,space dynamic subtle field layered forest organic calm depth gentle atmosphere sound,Northern Forests,Fall,Morning
+00013,Water,background dynamic field layered texture atmosphere environment natural gentle calm presence ambient,Northern Forests,Fall,Morning
+00014,Air,motion rich background environment texture sound gentle field organic recording subtle atmosphere,Northern Forests,Fall,Afternoon
+00015,Air,forest recording depth detailed layered breeze quiet space environment natural calm texture,Northern Forests,Fall,Afternoon
+00016,Air,background sound depth presence natural calm detailed quiet rich space gentle forest,Northern Forests,Fall,Afternoon
+00017,Air,forest quiet motion calm ambient layered subtle atmosphere gentle environment space detailed,Northern Forests,Fall,Afternoon
+00018,Air,forest field dynamic background atmosphere recording presence organic breeze gentle layered detailed,Northern Forests,Fall,Afternoon
+00019,Air,natural organic detailed field dynamic rich breeze quiet depth atmosphere gentle ambient,Northern Forests,Fall,Afternoon
+00020,Air,forest layered environment ambient space quiet breeze gentle natural rich atmosphere texture,Northern Forests,Fall,Afternoon
+00021,Air,calm motion natural detailed breeze depth field dynamic presence background atmosphere layered,Northern Forests,Fall,Afternoon
+00022,Air,natural field rich environment sound presence forest space background depth breeze subtle,Eastern Temperate Forests,Fall,Afternoon
+00023,Air,sound layered forest atmosphere calm recording environment presence natural gentle background rich,Eastern Temperate Forests,Fall,Afternoon
+00024,Air,background texture motion dynamic sound natural atmosphere detailed gentle ambient depth rich,Eastern Temperate Forests,Fall,Afternoon
+00025,Air,breeze sound dynamic natural ambient rich quiet subtle space environment atmosphere background,Eastern Temperate Forests,Fall,Afternoon
+00026,Air,layered organic texture environment presence ambient gentle forest detailed subtle recording background,Northern Forests,Fall,Afternoon
+00027,Air,quiet environment sound space recording depth organic subtle natural motion rich ambient,Northern Forests,Fall,Afternoon
+00028,Air,recording natural presence environment organic background breeze quiet depth layered sound motion,Northern Forests,Fall,Afternoon
+00029,Air,environment rich atmosphere forest dynamic detailed recording depth layered presence calm breeze,Northern Forests,Fall,Afternoon
+00030,Air,gentle quiet forest breeze space environment texture background recording depth ambient organic,Northern Forests,Fall,Afternoon
+00031,Water,ambient subtle layered forest natural background texture environment presence dynamic breeze recording,Northern Forests,Fall,Afternoon
+00032,Water,layered natural field breeze ambient background presence gentle organic detailed space recording,Northern Forests,Fall,Afternoon
+00033,Water,rich depth gentle motion presence natural recording breeze sound subtle space field,Northern Forests,Fall,Afternoon
+00034,Water,field environment layered space gentle motion calm ambient quiet depth atmosphere dynamic,Northern Forests,Fall,Afternoon
+00035,Water,breeze calm detailed field gentle atmosphere ambient organic quiet dynamic texture rich,Northern Forests,Fall,Afternoon
+00036,Water,sound calm forest subtle rich motion gentle texture field dynamic layered atmosphere,Northern Forests,Fall,Afternoon
+00037,Hybrid,forest natural presence recording calm depth organic layered field detailed gentle dynamic,Northern Forests,Fall,Afternoon
+00038,Hybrid,gentle layered texture environment breeze atmosphere forest motion presence natural organic dynamic,Northern Forests,Fall,Afternoon
+00039,Water,calm atmosphere dynamic sound organic natural background field subtle ambient depth detailed,Northern Forests,Fall,Afternoon
+00040,Water,organic field environment ambient natural forest quiet presence space motion gentle dynamic,Northern Forests,Fall,Afternoon
+00041,Air,detailed background environment rich depth space forest gentle field layered recording dynamic,Northern Forests,Fall,Afternoon
+00042,Air,breeze quiet field rich space depth subtle background forest environment calm dynamic,Northern Forests,Fall,Sunset
+00043,Air,organic texture detailed calm background field environment layered dynamic motion presence ambient,Northern Forests,Fall,Sunset
+00044,Air,recording motion gentle texture background organic presence forest dynamic depth rich sound,Northern Forests,Fall,Afternoon
+00045,Hybrid,breeze layered detailed field texture gentle ambient presence motion space calm environment,Northern Forests,Fall,Sunrise
+00046,Water,natural subtle breeze calm sound field presence layered motion texture recording gentle,Northern Forests,Fall,Sunrise
+00047,Hybrid,forest ambient atmosphere layered breeze detailed natural sound gentle environment presence recording,Northern Forests,Fall,Sunrise
+00048,Air,quiet atmosphere breeze gentle motion detailed ambient presence sound organic calm texture,Northern Forests,Fall,Afternoon
+00049,Air,motion detailed dynamic atmosphere subtle organic rich breeze ambient forest layered space,Northern Forests,Fall,Afternoon
+00050,Air,gentle subtle atmosphere layered forest recording natural rich depth presence field motion,Northern Forests,Fall,Afternoon
+00051,Air,background subtle environment rich field forest depth space organic presence calm dynamic,Northern Forests,Fall,Afternoon
+00052,Air,natural atmosphere motion quiet ambient dynamic space recording environment breeze layered background,Northern Forests,Fall,Sunset
+00053,Air,recording depth presence texture atmosphere environment dynamic organic sound calm breeze background,Northern Forests,Fall,Sunset
+00054,Air,space dynamic calm sound depth background organic motion subtle forest environment gentle,Northern Forests,Fall,Sunset
+00055,Air,motion quiet dynamic texture field detailed layered forest depth gentle recording breeze,Northern Forests,Fall,Sunset
+00056,Air,forest quiet ambient detailed organic atmosphere subtle depth calm texture presence gentle,Eastern Temperate Forests,Fall,Afternoon
+00057,Air,atmosphere rich gentle organic environment field quiet breeze space calm forest subtle,Eastern Temperate Forests,Fall,Afternoon
+00058,Air,calm subtle sound gentle forest detailed quiet presence recording organic ambient background,Eastern Temperate Forests,Fall,Afternoon
+00059,Air,texture layered sound detailed dynamic gentle natural motion forest depth field rich,Eastern Temperate Forests,Fall,Afternoon
+00060,Air,detailed breeze field calm presence ambient space forest texture depth quiet sound,Eastern Temperate Forests,Fall,Afternoon
+00061,Air,quiet sound calm organic ambient texture rich motion natural breeze layered depth,Eastern Temperate Forests,Fall,Afternoon
+00062,Air,forest atmosphere recording motion organic detailed breeze sound field ambient gentle background,Eastern Temperate Forests,Fall,Sunset
+00063,Air,environment recording natural background gentle field motion space layered rich breeze quiet,Eastern Temperate Forests,Fall,Sunset
+00064,Air,recording calm texture breeze depth motion gentle layered space dynamic forest natural,Eastern Temperate Forests,Fall,Sunset
+00065,Water,background breeze detailed organic motion texture presence natural depth dynamic recording space,Northern Forests,Fall,Afternoon
+00066,Air,texture atmosphere space forest sound presence field recording dynamic environment quiet motion,Eastern Temperate Forests,Winter,Morning
+00067,Air,calm subtle dynamic ambient natural depth atmosphere texture quiet gentle field layered,Eastern Temperate Forests,Winter,Morning
+00068,Air,detailed motion organic quiet ambient forest subtle presence breeze atmosphere space calm,Eastern Temperate Forests,Winter,Morning
+00069,Air,gentle forest organic atmosphere layered environment field calm dynamic subtle sound presence,Eastern Temperate Forests,Winter,Morning
+00070,Air,natural detailed gentle breeze motion subtle quiet texture field depth space calm,Eastern Temperate Forests,Winter,Morning
+00071,Air,texture subtle presence space ambient environment field detailed natural sound depth breeze,Eastern Temperate Forests,Winter,Afternoon
+00072,Air,motion background space dynamic subtle sound gentle detailed depth calm layered presence,Eastern Temperate Forests,Winter,Night
+00073,Air,background dynamic calm natural sound breeze rich space subtle motion depth environment,Eastern Temperate Forests,Winter,Morning
+00074,Air,depth recording quiet environment background subtle ambient presence rich atmosphere breeze calm,Eastern Temperate Forests,Winter,Morning
+00075,Air,calm presence atmosphere motion environment depth space detailed dynamic breeze ambient natural,Eastern Temperate Forests,Winter,Morning
+00076,Air,gentle forest subtle recording field detailed atmosphere depth dynamic sound breeze natural,Eastern Temperate Forests,Winter,Morning
+00077,Air,quiet depth gentle subtle natural atmosphere detailed sound breeze background recording forest,Eastern Temperate Forests,Winter,Morning
+00078,Air,dynamic texture forest organic depth recording motion sound layered rich detailed space,Eastern Temperate Forests,Winter,Afternoon
+00079,Air,forest ambient recording texture atmosphere presence subtle detailed gentle sound rich calm,Eastern Temperate Forests,Winter,Afternoon
+00080,Air,motion rich subtle depth breeze detailed gentle dynamic organic forest sound recording,Eastern Temperate Forests,Winter,Morning
+00081,Air,depth dynamic texture gentle calm field motion organic space forest rich quiet,Eastern Temperate Forests,Winter,Sunrise
+00082,Air,motion environment layered rich calm presence gentle field depth sound space breeze,Eastern Temperate Forests,Winter,Sunrise
+00083,Air,subtle detailed presence breeze background space ambient quiet texture calm forest recording,Eastern Temperate Forests,Winter,Morning
+00084,Air,environment texture quiet rich forest field detailed space breeze layered subtle sound,Eastern Temperate Forests,Winter,Morning
+00085,Air,recording sound field space organic breeze ambient background depth detailed motion natural,Eastern Temperate Forests,Winter,Morning
+00086,Air,forest layered subtle natural detailed field space presence breeze calm motion organic,Eastern Temperate Forests,Winter,Afternoon
+00087,Sequence,detailed gentle recording calm field presence space forest quiet background dynamic texture,Eastern Temperate Forests,Winter,Morning
+00088,Sequence,ambient depth space layered motion sound gentle forest breeze detailed quiet subtle,Eastern Temperate Forests,Winter,Afternoon
+00089,Sequence,detailed organic natural ambient space breeze presence recording gentle sound field depth,Eastern Temperate Forests,Winter,Afternoon
+00090,Sequence,organic field depth background detailed gentle forest ambient environment space rich layered,Eastern Temperate Forests,Winter,Afternoon
+00091,Sequence,dynamic organic environment depth natural field sound quiet gentle presence space motion,Eastern Temperate Forests,Winter,Afternoon
+00092,Sequence,recording environment detailed rich background space depth breeze texture ambient sound presence,Eastern Temperate Forests,Winter,Afternoon
+00093,Sequence,space subtle field ambient quiet environment natural breeze background calm atmosphere dynamic,Eastern Temperate Forests,Winter,Afternoon
+00094,Sequence,field layered subtle atmosphere space forest background natural environment breeze presence calm,Eastern Temperate Forests,Winter,Sunset
+00095,Sequence,presence texture atmosphere quiet background forest motion rich gentle natural layered ambient,Eastern Temperate Forests,Winter,Sunset
+00096,Sequence,sound space ambient natural subtle motion gentle calm detailed background recording dynamic,Eastern Temperate Forests,Winter,Morning
+00097,Sequence,space detailed quiet background layered motion dynamic environment presence forest gentle sound,Eastern Temperate Forests,Winter,Afternoon
+00098,Sequence,dynamic space calm breeze environment natural ambient background rich texture layered depth,Eastern Temperate Forests,Winter,Afternoon
+00099,Sequence,breeze depth dynamic detailed forest recording ambient presence calm field natural gentle,Eastern Temperate Forests,Winter,Afternoon
+00100,Air,depth rich environment recording subtle motion gentle layered atmosphere calm space ambient,Eastern Temperate Forests,Spring,Sunset
